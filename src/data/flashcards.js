@@ -1,7 +1,7 @@
 const flashcards = [
   {
     theme: 'Food',
-    icon: require('../assets/images/food.png'),
+    icon: require('../../assets/images/food.png'),
     cards: [
       {
         word: 'հաց',
