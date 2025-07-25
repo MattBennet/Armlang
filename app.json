@@ -4,6 +4,9 @@
       "eas": {
         "projectId": "8d890433-8426-491b-a7f6-f0995f1baf87"
       }
+    },
+    "android": {
+      "package": "com.dmitri_bel.armlang"
     }
   }
 }
